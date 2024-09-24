@@ -1,0 +1,25 @@
+_repo: Cape-Cod-is-a-number-of-things_74413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neal, Allan
+    gutenberg_agent_id: '57495'
+    url: http://www.gutenberg.org/2009/agents/57495
+description: ''
+gutenberg_issued: '2024-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74413'
+language: en
+pgterms:marc905: 20240519060213neal
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aYarmouth Port, Mass. :$bThe Register Press, $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cape Cod is a number of things
+url: http://www.gutenberg.org/ebooks/74413
